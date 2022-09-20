@@ -1,26 +1,23 @@
 ---
 # Display name
-title: 刘利斌
+title: 宋振华
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: 授课教师
+role: 博士三年级
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 北京大学智能学院
+  - name: 北京大学计算机学院
     url: https://www.cis.pku.edu.cn/
 
-# Short bio (displayed in user profile at end of posts)
-bio: 北京大学智能学院助理教授
 
 user_groups: 
-  - 授课教师
+  - 助教
 # Interests to show in About widget
 interests:
-  - 角色动画
   - 物理仿真
   - 动作控制
 
@@ -53,7 +50,7 @@ interests:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'libin.liu \[at\] pku.edu.cn'
+email: 'songzhenhua \[at\] stu.pku.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
