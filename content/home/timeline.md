@@ -64,5 +64,4 @@ subtitle = ""
 |    <br>2022年12月12日    	|    <br>Learning to Walk with Simplified Models                    	|
 |    <br>2022年12月19日    	|    <br>Optimal Control and Trajectory Optimization                	|
 |    <br>2022年12月26日    	|    <br>Reinforcement Learning and Multiskilled Characters         	|
-|    <br>2022年1月2日      	|    <br>Extra: Musculoskeleton Simulation                          	|
 
