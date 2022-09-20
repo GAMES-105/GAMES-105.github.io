@@ -50,7 +50,7 @@ interests:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'ysfeng@stu.pku.edu.cn'
+email: 'ysfeng[at]stu.pku.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

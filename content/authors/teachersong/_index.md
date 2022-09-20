@@ -50,7 +50,7 @@ interests:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'songzhenhua@stu.pku.edu.cn'
+email: 'songzhenhua[at]stu.pku.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
