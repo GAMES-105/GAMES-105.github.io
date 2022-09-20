@@ -18,7 +18,7 @@ user_groups:
   - 助教
 # Interests to show in About widget
 interests:
-  - 肌肉控制
+  - 肌肉仿真
   - 物理仿真
 
 # Social/Academic Networking
@@ -50,7 +50,7 @@ interests:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'ysfeng \[at\] stu.pku.edu.cn'
+email: 'ysfeng@stu.pku.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
