@@ -13,7 +13,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "white"
+  color = "WhiteSmoke"
   
   # Background gradient.
   
@@ -39,7 +39,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "600px", "20px", "650px"]
+  padding = ["20px", "400px", "20px", "400px"]
 
 [advanced]
  # Custom CSS. 

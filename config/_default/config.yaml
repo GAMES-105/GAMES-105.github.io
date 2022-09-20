@@ -80,3 +80,4 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+gravatar: true

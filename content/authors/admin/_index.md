@@ -6,11 +6,11 @@ title: 刘利斌
 superuser: true
 
 # Role/position/tagline
-role: 授课教师
+role: 助理教授
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 北京大学智能学院
+  - name: 北京大学智能学院 
     url: https://www.cis.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,10 +28,10 @@ interests:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: '/#contact'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
 #   - icon: twitter
 #     icon_pack: fab
 #     link: https://twitter.com/GeorgeCushen

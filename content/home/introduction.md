@@ -22,8 +22,8 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "white"
-  
+ # color = "white"
+  color = "WhiteSmoke"
   # Background gradient.
   
   
@@ -62,7 +62,8 @@ subtitle = ""
 ***
 ### 直播方式
 GAMES Bilibili直播间
-北京时间周四晚8点到九点
+
+北京时间周四晚8点到9点
 
 ***
 
