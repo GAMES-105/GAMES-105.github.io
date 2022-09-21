@@ -55,3 +55,8 @@ subtitle = ""
 [2] Sebastian Starke, Yiwei Zhao, Taku Komura, and Kazi Zaman. 2020. Local motion phases for learning multi-contact character movements. ACM Trans. Graph. 39, 4, Article 54 (August 2020), 14 pages. https://doi.org/10.1145/3386569.3392450  
 
 [3] Xue Bin Peng, Yunrong Guo, Lina Halper, Sergey Levine, and Sanja Fidler. 2022. ASE: large-scale reusable adversarial skill embeddings for physically simulated characters. ACM Trans. Graph. 41, 4, Article 94 (July 2022), 17 pages. https://doi.org/10.1145/3528223.3530110
+
+[4] Heyuan Yao, Zhenhua Song, Baoquan Chen, and Libin Liu. 2022. ControlVAE:
+Model-Based Learning of Generative Controllers for Physics-Based Char-
+acters. ACM Trans. Graph. 41, 6, Article 183 (December 2022), 16 pages.
+https://doi.org/10.1145/3550454.3555434
