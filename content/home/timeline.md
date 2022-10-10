@@ -52,7 +52,7 @@ subtitle = ""
 
 | 日期                     	| 内容                                                           	|
 |--------------------------|-------------------------------------------------------------------|
-|    <br>2022年10月10日    	|    <br>Introduction to Character Animation                        	|
+|    2022年10月10日    	|    [Introduction to Character Animation](/ppt/01%20-%20Introduction.pdf)                        	|
 |    <br>2022年10月17日    	|    <br>Rotation, Transformation, and Forward Kinematics           	|
 |    <br>2022年10月24日    	|    <br>Inverse Kinematics                                         	|
 |    <br>2022年10月31日    	|    <br>Keyframe Character Animation                               	|
