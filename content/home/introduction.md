@@ -61,7 +61,7 @@ subtitle = ""
 
 ***
 ### 直播方式
-GAMES Bilibili直播间
+GAMES Bilibili直播间 [webinar.games-cn.org](http://webinar.games-cn.org)
 
 北京时间周一晚8点到9点
 

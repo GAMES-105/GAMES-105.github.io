@@ -3,7 +3,7 @@
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget = "blank"  # See https://wowchemy.com/docs/page-builder/
+widget = "blank_small"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
@@ -56,7 +56,4 @@ subtitle = ""
 
 [3] Xue Bin Peng, Yunrong Guo, Lina Halper, Sergey Levine, and Sanja Fidler. 2022. ASE: large-scale reusable adversarial skill embeddings for physically simulated characters. ACM Trans. Graph. 41, 4, Article 94 (July 2022), 17 pages. https://doi.org/10.1145/3528223.3530110
 
-[4] Heyuan Yao, Zhenhua Song, Baoquan Chen, and Libin Liu. 2022. ControlVAE:
-Model-Based Learning of Generative Controllers for Physics-Based Char-
-acters. ACM Trans. Graph. 41, 6, Article 183 (December 2022), 16 pages.
-https://doi.org/10.1145/3550454.3555434
+[4] Heyuan Yao, Zhenhua Song, Baoquan Chen, and Libin Liu. 2022. ControlVAE:Model-Based Learning of Generative Controllers for Physics-Based Characters. ACM Trans. Graph. 41, 6, Article 183 (December 2022), 16 pages. https://doi.org/10.1145/3550454.3555434
