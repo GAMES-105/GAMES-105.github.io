@@ -53,7 +53,7 @@ subtitle = ""
 | 日期                     	| 内容                                                           	|
 |--------------------------|-------------------------------------------------------------------|
 |    2022年10月10日    	|    [Introduction to Character Animation](/ppt/01%20-%20Introduction.pdf)                        	|
-|    <br>2022年10月17日    	|    <br>[Math Background](/ppt/01%20-%20Math%20Background.pdf)          	|
+|    <br>2022年10月17日    	|    <br>[Math Background](/ppt/02%20-%20Math%20Background.pdf)          	|
 |    <br>2022年10月24日    	|    <br>Forward Kinematics & Inverse Kinematics                                         	|
 |    <br>2022年10月31日    	|    <br>Keyframe Character Animation                               	|
 |    <br>2022年11月7日     	|    <br>Data-driven Character Animation                            	|
