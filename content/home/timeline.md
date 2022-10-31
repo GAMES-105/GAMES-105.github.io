@@ -55,7 +55,7 @@ subtitle = ""
 |    2022年10月10日    	|    [Introduction to Character Animation](/ppt/01%20-%20Introduction.pdf)                        	|
 |    <br>2022年10月17日    	|    <br>[Math Background](/ppt/02%20-%20Math%20Background.pdf)          	|
 |    <br>2022年10月24日    	|    <br>[Forward Kinematics & Inverse Kinematics](/ppt/03%20-%20Forward%20and%20Backward%20Kinematics.pdf)                                         	|
-|    <br>2022年10月31日    	|    <br>Keyframe Character Animation                               	|
+|    <br>2022年10月31日    	|    <br>[Keyframe Character Animation](/ppt/04%20-%20Keyframe%20Animation.pdf)                               	|
 |    <br>2022年11月7日     	|    <br>Data-driven Character Animation                            	|
 |    <br>2022年11月14日    	|    <br>Learning-based Character Animation                         	|
 |    <br>2022年11月21日    	|    <br>Skinning and Facial Animation                              	|
