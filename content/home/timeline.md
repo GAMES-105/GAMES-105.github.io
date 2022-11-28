@@ -57,11 +57,12 @@ subtitle = ""
 |    <br>2022年10月24日    	|    <br>[Forward Kinematics & Inverse Kinematics](/ppt/03%20-%20Forward%20and%20Backward%20Kinematics.pdf)                                         	|
 |    <br>2022年10月31日    	|    <br>[Keyframe Character Animation](/ppt/04%20-%20Keyframe%20Animation.pdf)                               	|
 |    <br>2022年11月7日     	|    <br>[Data-driven Character Animation](/ppt/05%20-%20Data-driven%20Animation.pdf)                      	|
-|    <br>2022年11月14日    	|    <br>[Learning-based Character Animation](/ppt/06%20-%20Learning-based%20Animation.pdf)                         	|
-|    <br>2022年11月21日    	|    <br>Skinning and Facial Animation                              	|
-|    <br>2022年11月28日    	|    <br>Physics-based Simulation and Articulated Rigid   Bodies    	|
-|    <br>2022年12月5日     	|    <br>Actuating Character and Feedback Control                   	|
-|    <br>2022年12月12日    	|    <br>Learning to Walk with Simplified Models                    	|
-|    <br>2022年12月19日    	|    <br>Optimal Control and Trajectory Optimization                	|
-|    <br>2022年12月26日    	|    <br>Reinforcement Learning and Multiskilled Characters         	|
+|    <br>2022年11月21日  	|    <br>[Learning-based Character Animation](/ppt/06%20-%20Learning-based%20Animation.pdf)                         	|
+|    <br>2022年11月28日     |    <br>[Learning-based Character Animation 2](/ppt/06a%20-%20Learning-based%20Animation%20cont.pdf)
+|    <br>2022年12月5日    	|    <br>Skinning and Facial Animation                              	|
+|    <br>2022年12月12日    	|    <br>Physics-based Simulation and Articulated Rigid   Bodies    	|
+|    <br>2022年12月19日     	|    <br>Actuating Character and Feedback Control                   	|
+|    <br>2022年12月26日    	|    <br>Learning to Walk with Simplified Models                    	|
+|    <br>2023年1月2日    	|    <br>Optimal Control and Trajectory Optimization                	|
+|    <br>2023年1月9日    	|    <br>Reinforcement Learning and Multiskilled Characters         	|
 
