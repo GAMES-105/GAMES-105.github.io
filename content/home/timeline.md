@@ -62,7 +62,7 @@ subtitle = ""
 |    <br>2022年12月5日    	|    <br>[Skinning and Facial Animation](/ppt/07%20-%20Skinning.pdf)                              	|
 |    <br>2022年12月12日    	|    <br>[Physics-based Simulation and Articulated Rigid Bodies](/ppt/08%20-%20Simulation.pdf)    	|
 |    <br>2022年12月26日     	|    <br>[Actuating Character and Feedback Control](/ppt/09%20-%20Actuating%20Characters.pdf)                   	|
-|    <br>2022年1月2日    	|    <br>Learning to Walk with Simplified Models                    	|
-|    <br>2023年1月9日    	|    <br>Optimal Control and Trajectory Optimization                	|
+|    <br>2022年1月2日    	|    <br>[Trajectory Optimization and Feedback Control](/ppt/10%20-%20Controlling%20Characters.pdf)                    	|
+|    <br>2023年1月9日    	|    <br>Learning to Walk with Simplified Models              	|
 |    <br>2023年1月16日    	|    <br>Reinforcement Learning and Multiskilled Characters         	|
 
