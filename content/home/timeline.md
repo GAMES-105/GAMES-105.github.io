@@ -64,5 +64,5 @@ subtitle = ""
 |    <br>2022年12月26日     	|    <br>[Actuating Character and Feedback Control](/ppt/09%20-%20Actuating%20Characters.pdf)                   	|
 |    <br>2022年1月2日    	|    <br>[Trajectory Optimization and Feedback Control](/ppt/10%20-%20Controlling%20Characters.pdf)                    	|
 |    <br>2023年1月9日    	|    <br>[Learning to Walk with Simplified Models](/ppt/11%20-%20Learning%20to%20Walk.pdf)              	|
-|    <br>2023年1月16日    	|    <br>Reinforcement Learning and Multiskilled Characters         	|
+|    <br>2023年1月16日    	|    <br>[Reinforcement Learning and Multiskilled Characters](/static/ppt/12%20-%20Optimal%20Control%20and%20Reinforcement%20Learning.pdf)         	|
 
